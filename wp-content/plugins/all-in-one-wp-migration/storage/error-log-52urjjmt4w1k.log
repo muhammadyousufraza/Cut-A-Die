@@ -1,0 +1,3 @@
+Jan 09 2025 12:47:21
+{"type":8192,"message":"Creation of dynamic property FS_Plugin::$opt_in_moderation is deprecated","file":"C:\\Users\\REHMAN COMPUTER\\Local Sites\\cut-a-die\\app\\public\\wp-includes\\functions.php","line":650}
+
